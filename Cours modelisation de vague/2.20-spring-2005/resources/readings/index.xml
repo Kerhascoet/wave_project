@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/readings/data.json</guid>
+      <description>&lt;h3 id=&#34;texts&#34;&gt;Texts&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;&lt;a   class=&#34;external-link &#34;   target=&#34;_blank&#34;   href=&#34;https://mitpress.mit.edu/9780262140263&#34;  aria-label=&#34;Buy at MIT Press (opens in a new tab)&#34;  &gt;Buy at MIT Press&lt;/a&gt; Newman, J. N. &lt;a   class=&#34;external-link &#34;   target=&#34;_blank&#34;   href=&#34;https://mitpress.mit.edu/9780262140263&#34;  aria-label=&#34;Marine Hydrodynamics (opens in a new tab)&#34;  &gt;&lt;em&gt;Marine Hydrodynamics&lt;/em&gt;&lt;/a&gt;. Cambridge, MA: MIT Press, 1977. ISBN: 9780262140263.&lt;br&gt;&#xA;(Not required - an old edition will do, however, readings are assigned.)&lt;/p&gt;&#xA;&lt;p&gt;Sabersky, R. H., A. J. Acosta, E. G. Hauptmann, and E. M. Gates. &lt;em&gt;Fluid Flow&lt;/em&gt;. 4th ed. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 9780135763728.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

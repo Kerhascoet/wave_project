@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/assignments/data.json</guid>
+      <description>&lt;h3 id=&#34;homework-policy&#34;&gt;Homework Policy&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Homework problems will be assigned after each lecture. Generally, homework will be due one week after it is assigned. However, because of holidays and quizzes there are variations to this rule. The scheduled due dates are given in the course calendar.&lt;/p&gt;&#xA;&#xA;    &lt;h3 id=&#34;problem-sets&#34;&gt;Problem Sets&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Homework problems are often divided into parts A and B. Generally, Part A is assigned on a Tuesday and Part B is assigned on a Thursday of a given week. Both assignments are then due the following Tuesday (or Wednesday if Tuesday is a holiday). Challenge problems are also assigned, but the completion of these problems is optional and not required.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>chal_1.pdf</title>
+      <link>/resources/chal_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/chal_1/data.json</guid>
+      <description>&lt;p&gt;This resource includes problems on transport theorm, mass flow rates, and conversion of momentum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>chall_2.pdf</title>
+      <link>/resources/chall_2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/chall_2/data.json</guid>
+      <description>&lt;p&gt;This resource includes problem on Navier-Stokes equation, and pressure gradient.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>chall_3.pdf</title>
+      <link>/resources/chall_3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/chall_3/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on Navier-Stokes equations, and vorticity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>pflowhw_1.pdf</title>
+      <link>/resources/pflowhw_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/pflowhw_1/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pflowtut.pdf</title>
+      <link>/resources/pflowtut/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/pflowtut/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ps_1.pdf</title>
+      <link>/resources/ps_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_1/data.json</guid>
+      <description>&lt;p&gt;This resource includes problems on constitutive relation, conservative mechanical system, linear impulse, and angular momentum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_10a.pdf</title>
+      <link>/resources/ps_10a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_10a/data.json</guid>
+      <description>&lt;p&gt;This resource includes supplement problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_10b.pdf</title>
+      <link>/resources/ps_10b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_10b/data.json</guid>
+      <description>&lt;p&gt;This resource includes referenced supplementry problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_11a.pdf</title>
+      <link>/resources/ps_11a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_11a/data.json</guid>
+      <description>&lt;p&gt;This resource includes referenced supplementry problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_11b.pdf</title>
+      <link>/resources/ps_11b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_11b/data.json</guid>
+      <description>&lt;p&gt;This resource includes referenced supplementry problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_12.pdf</title>
+      <link>/resources/ps_12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_12/data.json</guid>
+      <description>&lt;p&gt;This resource includes referenced supplementry problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_13a.pdf</title>
+      <link>/resources/ps_13a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_13a/data.json</guid>
+      <description>&lt;p&gt;This resource includes referenced supplementry problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_13b.pdf</title>
+      <link>/resources/ps_13b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_13b/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ps_14a.pdf</title>
+      <link>/resources/ps_14a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_14a/data.json</guid>
+      <description>&lt;p&gt;This resource includes referenced supplementry problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_2a.pdf</title>
+      <link>/resources/ps_2a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_2a/data.json</guid>
+      <description>&lt;p&gt;This resource includes problems on velocity vector, Stokes? theorem, and divergence theorem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_2b.pdf</title>
+      <link>/resources/ps_2b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_2b/data.json</guid>
+      <description>&lt;p&gt;This resource includes problems on fluid velocity, velocity field, incompressable flow, and one dimensional flow.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_3a.pdf</title>
+      <link>/resources/ps_3a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_3a/data.json</guid>
+      <description>&lt;p&gt;This resource includes problems on kinamatic transport theorem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_3b.pdf</title>
+      <link>/resources/ps_3b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_3b/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ps_4a.pdf</title>
+      <link>/resources/ps_4a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_4a/data.json</guid>
+      <description>&lt;p&gt;This resource includes problems on fluid flow.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_4b.pdf</title>
+      <link>/resources/ps_4b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_4b/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ps_5a.pdf</title>
+      <link>/resources/ps_5a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_5a/data.json</guid>
+      <description>&lt;p&gt;This resource includes referenced supplementry problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_5b.pdf</title>
+      <link>/resources/ps_5b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_5b/data.json</guid>
+      <description>&lt;p&gt;This resource includes referenced supplementry problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_6.pdf</title>
+      <link>/resources/ps_6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_6/data.json</guid>
+      <description>&lt;p&gt;This resource includes referenced supplementry problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ps_7a.pdf</title>
+      <link>/resources/ps_7a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_7a/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ps_7b.pdf</title>
+      <link>/resources/ps_7b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_7b/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ps_8a.pdf</title>
+      <link>/resources/ps_8a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_8a/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ps_8b.pdf</title>
+      <link>/resources/ps_8b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_8b/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ps_9a.pdf</title>
+      <link>/resources/ps_9a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_9a/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ps_9b.pdf</title>
+      <link>/resources/ps_9b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/ps_9b/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>supp04.pdf</title>
+      <link>/resources/supp04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/supp04/data.json</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

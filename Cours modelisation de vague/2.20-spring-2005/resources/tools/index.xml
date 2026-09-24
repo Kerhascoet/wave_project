@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on MIT OpenCourseWare</title>
+    <link>/resources/tools/</link>
+    <description>Recent content in Tools on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AMass3DV14.zip</title>
+      <link>/resources/amass3dv14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/amass3dv14/data.json</guid>
+      <description>&lt;p&gt;This resource includes a special file required in the course.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AMassTutorial.pdf</title>
+      <link>/resources/amasstutorial/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/amasstutorial/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>P_FLowTutorial.pdf</title>
+      <link>/resources/p_flowtutorial/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/p_flowtutorial/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on the 2.20 Java P-FLOW applet, which will be used as a tool to solve homework problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PartialReflection.zip</title>
+      <link>/resources/partialreflection/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/partialreflection/data.json</guid>
+      <description>&lt;p&gt;This resource includes a special file required in the course.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PFlowV35.zip</title>
+      <link>/resources/pflowv35/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/pflowv35/data.json</guid>
+      <description>&lt;p&gt;This resource includes a special file required in the course.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>/pages/tools/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/tools/data.json</guid>
+      <description>&lt;p&gt;For this course, three software packages were developed to help students understand concepts and of course to do homework.&lt;/p&gt;&#xA;&lt;p&gt;These three software packages are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;P-Flow: To run P-Flow, you need to download and install the file J2SE 1.4.2 from: &lt;a   class=&#34;external-link &#34;   target=&#34;_blank&#34;   href=&#34;http://java.sun.com/j2se/downloads/index.html&#34;  aria-label=&#34;J2SE Downloads (opens in a new tab)&#34;  &gt;J2SE Downloads&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;AMass: To run Amass, you need to download and install Java 3D from: &lt;a   class=&#34;external-link &#34;   target=&#34;_blank&#34;   href=&#34;http://java.sun.com/products/java-media/3D/download.html&#34;  aria-label=&#34;1.3.1 API Download (opens in a new tab)&#34;  &gt;1.3.1 API Download&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Wave Partial Reflection : To run P-Flow you need to download and install the file J2SE 1.4.2 from: &lt;a   class=&#34;external-link &#34;   target=&#34;_blank&#34;   href=&#34;http://java.sun.com/j2se/downloads/index.html&#34;  aria-label=&#34;J2SE Downloads (opens in a new tab)&#34;  &gt;J2SE Downloads&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;To run the tools in this section, first download the appropriate Java files and accept the applet. Tutorial files are provided to assist in using the tools. In addition, you can download the executable files if you would like to experiment further with the tools.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

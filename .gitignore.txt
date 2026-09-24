@@ -1,0 +1,12 @@
+# Environnement virtuel et caches Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+Cours modelisation de vague/
+
+# Dossiers de travail locaux / temporaires
+outputs/
+
+# Fichiers système (Windows / Mac)
+Thumbs.db
+.DS_Store

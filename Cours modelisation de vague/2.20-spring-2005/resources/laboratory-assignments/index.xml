@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laboratory Assignments on MIT OpenCourseWare</title>
+    <link>/resources/laboratory-assignments/</link>
+    <description>Recent content in Laboratory Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/laboratory-assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>impact_assign.pdf</title>
+      <link>/resources/impact_assign/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/impact_assign/data.json</guid>
+      <description>&lt;p&gt;This resource includes the experiment on estimate the added mass of an accelerating sphere at various depths of submergence&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Labs</title>
+      <link>/pages/labs/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/labs/data.json</guid>
+      <description>&lt;h3 id=&#34;lab-information&#34;&gt;Lab Information&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;There is a lab section for this course. It takes place at the MIT Tow Tank and MIT Propeller Tunnel. The labs are designed each year to incorporate the information from the course into a complete package. Some labs from the previous years include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Drag on a 2D Cylinder&lt;/li&gt;&#xA;&lt;li&gt;Submersible&lt;/li&gt;&#xA;&lt;li&gt;Hull Tests&lt;/li&gt;&#xA;&lt;li&gt;2D Airfoil&lt;/li&gt;&#xA;&lt;li&gt;Wave Forces&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Groups of 3 (preferably) to 4 (maximum) students are formed and the groups work together throughout the lab. Individual Lab reports are required. The lab portion is typically 10% of the final grade.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>wave_assign.pdf</title>
+      <link>/resources/wave_assign/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/wave_assign/data.json</guid>
+      <description>&lt;p&gt;This lab is in an investigation into some of the properties of surface gravity waves and their effects in ship resistance.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

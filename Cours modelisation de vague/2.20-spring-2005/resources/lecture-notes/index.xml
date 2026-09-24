@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;SES #&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;TOPICS&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;LECTURE NOTES&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;L1&lt;/p&gt;&#xA;&lt;p&gt;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Introduction&lt;/p&gt;&#xA;&lt;p&gt;Fluids vs. Solids&lt;/p&gt;&#xA;&lt;p&gt;Liquids vs. Gases&lt;/p&gt;&#xA;&lt;p&gt;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;(&lt;a href=&#34;../../resources/lecture1/index.html&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td colspan=&#34;3&#34;&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Basic Equations&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;L2&lt;/p&gt;&#xA;&lt;p&gt;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Description of a Flow&lt;/p&gt;&#xA;&lt;p&gt;Flow Visualization - Flow Lines&lt;/p&gt;&#xA;&lt;p&gt;Concept and Consequences of Continuous Flow&lt;/p&gt;&#xA;&lt;p&gt;Material/Substantial/Total Time Derivative&lt;/p&gt;&#xA;&lt;p&gt;Langrangian and Eulerian Time Derivative&lt;/p&gt;&#xA;&lt;p&gt;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;(&lt;a href=&#34;../../resources/lecture2/index.html&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;L3&lt;/p&gt;&#xA;&lt;p&gt;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Stress Tensor&lt;/p&gt;&#xA;&lt;p&gt;Mass and Momentum Conservation&lt;/p&gt;&#xA;&lt;p&gt;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;(&lt;a href=&#34;../../resources/lecture3/index.html&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;L4&lt;/p&gt;&#xA;&lt;p&gt;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Newtonian Fluids&lt;/p&gt;&#xA;&lt;p&gt;Navier-Stokes Equations&lt;/p&gt;&#xA;&lt;p&gt;Boundary Conditions&lt;/p&gt;&#xA;&lt;p&gt;Surface Tension&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture1.pdf</title>
+      <link>/resources/lecture1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture1/data.json</guid>
+      <description>&lt;p&gt;This resource includes the introduction of the course.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture10.pdf</title>
+      <link>/resources/lecture10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture10/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Linear Superposition for Potential Flow, Laplace equation in different coordinate systems, Simple Potential flows, Dipole, and Rankine ovoid.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture11.pdf</title>
+      <link>/resources/lecture11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture11/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Forces on a body undergoing steady translation, Forces, Lift due to Circulation, and Kutta-Joukowski Law.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture12.pdf</title>
+      <link>/resources/lecture12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture12/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - 2D Symmetric Streamlined Body, Asymmetric Body, Potential Flow and Kutta Condition, and Thin Wing, Small Angle of Attack.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture13.pdf</title>
+      <link>/resources/lecture13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture13/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - General 6 Degrees of Freedom Motions, Added Mass Tensor, and Generalized Forces and Moments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture14.pdf</title>
+      <link>/resources/lecture14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture14/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on relationship to fluid momentum, symmetry of added mass matrix, relationship to the kinetic energy, slender body approximation, buoyancy effects due to accelerating flow, and added mass coefficient.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture15.pdf</title>
+      <link>/resources/lecture15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture15/data.json</guid>
+      <description>&lt;p&gt;This resource includes information potential flow theory, form drag, boundary layers, and flow separation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture16.pdf</title>
+      <link>/resources/lecture16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture16/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on strouhal number, drag on a very streamlined body, and known solutions of the navier-stokes equations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture17.pdf</title>
+      <link>/resources/lecture17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture17/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on steady flow over a flat plate, and flow qver a body of general geometry.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture18.pdf</title>
+      <link>/resources/lecture18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture18/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on reynolds stress, turbulent boundary layer over a smooth flat plate, and summery.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture19.pdf</title>
+      <link>/resources/lecture19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture19/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Corollaries, Model Testing, and Steady Flow Past General Bodies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture2.pdf</title>
+      <link>/resources/lecture2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture2/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Description of a Flow, Flow visualization -Flow lines, Some Quantities of Interest, Concept and Consequences of Continuous Flow, Material/Substantial/Total Time Derivative, and Difference Between Lagrangian Time Derivative and Eulerian Time Derivative.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture20.pdf</title>
+      <link>/resources/lecture20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture20/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Exact (Nonlinear) Governing Equations for Surface Gravity Waves, Assuming Potential Flow, Linearized (Airy) Wave Theory, and Characteristics of a Linear Plane Progressive Wave.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture21.pdf</title>
+      <link>/resources/lecture21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture21/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Oblique Plane Waves, Standing Waves, Oblique Standing Waves, Partial Reflection, Wave Group, Energy Associated with Wave Motion, and Wave Theory.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture22.pdf</title>
+      <link>/resources/lecture22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture22/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Types of Forces, Viscous forces, Inertial forces, Diffraction and Radiation Forces, and Radiation Force.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture3.pdf</title>
+      <link>/resources/lecture3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture3/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Pascal&amp;rsquo;s Law for hydrostatics, Symmetry of the Stress Tensor, Mass and Momentum Conservation, and Euler&amp;rsquo;s equation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture4.pdf</title>
+      <link>/resources/lecture4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture4/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Discussion on viscous stresses, Navier-Stokes equations, and Boundary Conditions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture5.pdf</title>
+      <link>/resources/lecture5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture5/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Equal Ratios, Dimensional Analysis, and Model Law.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture6.pdf</title>
+      <link>/resources/lecture6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture6/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Similarity Parameters from Physical Arguments, and Importance of SP&amp;rsquo;s.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture7.pdf</title>
+      <link>/resources/lecture7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture7/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Governing Equations and Boundary Conditions for Ideal Flow, Circulation ? Kelvin&amp;rsquo;s Theorem, and Vorticity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture8.pdf</title>
+      <link>/resources/lecture8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture8/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Vortex Structures, No Net Flux of Vorticity Through a Closed Surface, Conservation of Vorticity Flux, Vortex Structures are Material Structures, and Vortex stretching.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lecture9.pdf</title>
+      <link>/resources/lecture9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture9/data.json</guid>
+      <description>&lt;p&gt;This resource includes the following topics - Potential Flow, and Navier-Stokes equations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>lfig1912.pdf</title>
+      <link>/resources/lfig1912/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lfig1912/data.json</guid>
+      <description>&lt;p&gt;This resource includes a figure of Particle Orbits.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

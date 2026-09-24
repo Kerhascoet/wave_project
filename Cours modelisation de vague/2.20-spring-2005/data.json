@@ -1,0 +1,23 @@
+{
+  "course_title":"Marine Hydrodynamics (13.021)",
+  "course_description":"In this course the fundamentals of fluid mechanics are developed in the context of naval architecture and ocean science and engineering. The various topics covered are: Transport theorem and conservation principles, Navier-Stokes' equation, dimensional analysis, ideal and potential flows, vorticity and Kelvin's theorem, hydrodynamic forces in potential flow, D'Alembert's paradox, added-mass, slender-body theory, viscous-fluid flow, laminar and turbulent boundary layers, model testing, scaling laws, application of potential theory to surface waves, energy transport, wave/body forces, linearized theory of lifting surfaces, and experimental project in the towing tank or propeller tunnel.\n\nThis subject was originally offered in Course 13 (Department of Ocean Engineering) as 13.021. In 2005, ocean engineering became part of Course 2 (Department of Mechanical Engineering), and this subject was renumbered 2.20.\n",
+  "course_description_html":"<p>In this course the fundamentals of fluid mechanics are developed in the context of naval architecture and ocean science and engineering. The various topics covered are: Transport theorem and conservation principles, Navier-Stokes&rsquo; equation, dimensional analysis, ideal and potential flows, vorticity and Kelvin&rsquo;s theorem, hydrodynamic forces in potential flow, D&rsquo;Alembert&rsquo;s paradox, added-mass, slender-body theory, viscous-fluid flow, laminar and turbulent boundary layers, model testing, scaling laws, application of potential theory to surface waves, energy transport, wave/body forces, linearized theory of lifting surfaces, and experimental project in the towing tank or propeller tunnel.</p>\n<p>This subject was originally offered in Course 13 (Department of Ocean Engineering) as 13.021. In 2005, ocean engineering became part of Course 2 (Department of Mechanical Engineering), and this subject was renumbered 2.20.</p>\n",
+  "site_uid":"3a61bdc8-a672-4001-b41c-b69873068404",
+  "legacy_uid":"aecc6246-0e62-61ac-b24c-0e886e1b312a","instructors": [{
+    "first_name":"Dick",
+    "last_name":"Yue",
+    "middle_initial":"K. P.",
+    "salutation":"Prof.",
+    "title":"Prof. Dick K. P. Yue"}],"department_numbers":["2"],
+  "learning_resource_types":["Exams","Lecture Notes"],
+  "topics":[["Engineering","Ocean Engineering","Hydrodynamics"],["Engineering","Mechanical Engineering","Fluid Mechanics"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"2.20",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2005",
+  "level":["Graduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/886bc5f79c54f98784a75bed241c24ef_2-20s05.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"Illustration of some of the tools and concepts of marine hydrodynamics covered in the course, relevant in this case to the design of ships and offshore platform. (Image by Prof. Dick K. P. Yue.)","draft":false,"file":"/courses/2-20-marine-hydrodynamics-13-021-spring-2005/886bc5f79c54f98784a75bed241c24ef_2-20s05.jpg","file_size":58529,"file_type":"image/jpeg","image_metadata":{"caption":"Illustration of some of the tools and concepts of marine hydrodynamics covered in the course, relevant in this case to the design of ships and offshore platform. (Image by Prof. Dick K. P. Yue.)","credit":"","image-alt":"Illustration of marine hydrodynamic principals."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"2-20s05.jpg","uid":"886bc5f7-9c54-f987-84a7-5bed241c24ef"}}
+

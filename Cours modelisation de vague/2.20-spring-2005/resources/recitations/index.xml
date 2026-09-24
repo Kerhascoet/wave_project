@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recitations on MIT OpenCourseWare</title>
+    <link>/resources/recitations/</link>
+    <description>Recent content in Recitations on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/recitations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>recitation1.pdf</title>
+      <link>/resources/recitation1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/recitation1/data.json</guid>
+      <description>&lt;p&gt;This resource provides references on einstein notation, vector Calculus, taylor series expansion, and total (material) derivative.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>recitation10.pdf</title>
+      <link>/resources/recitation10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/recitation10/data.json</guid>
+      <description>&lt;p&gt;This resource includes horizontal forces on fully submerged cylinder in oscillatory flow&#xA;scope, and linear water waves.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>recitation11.pdf</title>
+      <link>/resources/recitation11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/recitation11/data.json</guid>
+      <description>&lt;p&gt;This resource includes references to dispertion relation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>recitation12.pdf</title>
+      <link>/resources/recitation12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/recitation12/data.json</guid>
+      <description>&lt;p&gt;This resource includes references for thickness problem, lifting problem, flat plate at an angle of attack, and parabolic camber.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>recitation2.pdf</title>
+      <link>/resources/recitation2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/recitation2/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on material derivative, material volume, and guidelines for CV analysis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>recitation3.pdf</title>
+      <link>/resources/recitation3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/recitation3/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on DA and model testing, Buckingham?s P theorem examples, and importance of SP?s.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>recitation4.pdf</title>
+      <link>/resources/recitation4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/recitation4/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on vorticity line, tube, ring, flux, and cheat sheet on G, ?, u.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>recitation5.pdf</title>
+      <link>/resources/recitation5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/recitation5/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on P-flow.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>recitation6.pdf</title>
+      <link>/resources/recitation6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/recitation6/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on P-flow summary, and added mass.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>recitation7.pdf</title>
+      <link>/resources/recitation7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/recitation7/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on slender body theory, and non zero terms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>recitation8.pdf</title>
+      <link>/resources/recitation8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/recitation8/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on displacement thickness, and momentum thickness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>recitation9.pdf</title>
+      <link>/resources/recitation9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/recitation9/data.json</guid>
+      <description>&lt;p&gt;This resource includes information on laminar boundary layers, and model testing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recitations</title>
+      <link>/pages/recitations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/recitations/data.json</guid>
+      <description>&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;SES #&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;Topics&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;R1&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Basic Tools - Calculus Review (&lt;a href=&#34;../../resources/recitation1/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;R2&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Control Volume (&lt;a href=&#34;../../resources/recitation2/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;R3&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Dimensional Analysis and Similitude (&lt;a href=&#34;../../resources/recitation3/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;R4&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Ideal Flow (&lt;a href=&#34;../../resources/recitation4/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;R5&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Quiz 1 Review and P-Flow (&lt;a href=&#34;../../resources/recitation5/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;R6&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;P-Flow Summary and Added Mass (&lt;a href=&#34;../../resources/recitation6/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;R7&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Added Mass Tensor (&lt;a href=&#34;../../resources/recitation7/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;R8&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Quiz 2 Review and Boundary Layers (&lt;a href=&#34;../../resources/recitation8/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;R9&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Laminar Boundary Layers and Model Testing (&lt;a href=&#34;../../resources/recitation9/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;R10&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Forces on Cylinder, Labs, and Linear Water Waves (&lt;a href=&#34;../../resources/recitation10/index.html&#34;&gt;PDF&lt;/a&gt;)&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
