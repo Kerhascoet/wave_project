@@ -17,7 +17,6 @@ PS : I did the README file in english to be able to share it, but the code itsel
 
 - [x] Projet 1 — Linear wave theory (dispersion, shoaling, breaking)
 - [ ] Projet 2 — Analysis of real data (CANDHIS buoy, Penmarc'h)
-- [ ] Projet 3 — Surf break analyzer : Automatic spots characterization
 
 
 
@@ -26,16 +25,36 @@ PS : I did the README file in english to be able to share it, but the code itsel
 - **Dispersion relation** : $\omega^2 = g \cdot k \cdot \tanh(k \cdot h)$ — numerical resolution (finding $k$) using Brent's method
 - **Wave properties** : wavelength $\lambda$, celerity $c$, group velocity $c_g$
 - **Shoaling** : height evolution via conservation of energy ($K_s = \sqrt{c_{g0} / c_{gh}}$)
-- **Breaking** : Miche criterion ($H/h = 0.78$)
+- **Breaking** : Miche criterion ($H - 0.142 * np.tanh(kh) * lam$)
 
-![Dashboard Projet 1](figures/dashboard_projet1.png)
+<img src="figures/dashboard_projet1.png" alt="Project 1 dashboard" width="1000">
 
 
 
 ## Projet 2 - Analysis of real data
 
-**coming soon**
+This project goal is to make me use the maths I learned in the first project.
 
+What I did : 
+
+### Wave data
+- Retrievied data from a CANDHIS buoy I've chosen (Penmarc'h buoy)
+
+<img src="figures/screenshot_bouée_penmarc'h.png" alt="Buoy position in Brittany" width="400">
+
+- Sorted thoses data to keep only waves coming from the West (210° - 290°)
+- Plotted the amplitude, period and power of thoses waves
+
+<img src="figures/H_T_P_bouée_penmarc'h.png" alt="Buoy data : amplitude, period and power" width="1000">
+
+### Topographic data
+- Retreived and sorted topographic data from the spot of my choice
+- Plotted the topographic data on a 3D grid
+
+<img src="figures/Topographic_model_LaTorche.png" alt="Topographic 3D model of La Torhce" width="1000">
+
+
+###
 
 
 ## Installation

@@ -16,8 +16,8 @@ PS : I did the README file in english to be able to share it, but the code itsel
 ## Project structure
 
 - [x] Projet 1 — Linear wave theory (dispersion, shoaling, breaking)
-- [ ] Projet 2 — Spectral analysis of real data (CANDHIS buoy, Penmarc'h)
-- [ ] Projet 3 — Surf break analyzer : Automatic spot characterization
+- [ ] Projet 2 — Analysis of real data (CANDHIS buoy, Penmarc'h)
+- [ ] Projet 3 — Surf break analyzer : Automatic spots characterization
 
 
 
@@ -29,6 +29,13 @@ PS : I did the README file in english to be able to share it, but the code itsel
 - **Breaking** : Miche criterion ($H/h = 0.78$)
 
 ![Dashboard Projet 1](figures/dashboard_projet1.png)
+
+
+
+## Projet 2 - Analysis of real data
+
+**coming soon**
+
 
 
 ## Installation
